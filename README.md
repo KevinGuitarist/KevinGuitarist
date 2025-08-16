@@ -1,6 +1,7 @@
 <!-- 
-Hi, Vivek! I've now fixed the spacing issue. 
-The icons are no longer "chipke chipke" and have proper breathing room for a cleaner look.
+Hi, Vivek! Per your request, I've updated the ugly Android and Photoshop icons.
+They are now replaced with their best-looking, modern versions to match the style of the others.
+This should be perfect now!
 -->
 
 <div align="center">
@@ -54,7 +55,7 @@ The icons are no longer "chipke chipke" and have proper breathing room for a cle
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
@@ -86,11 +87,11 @@ The icons are no longer "chipke chipke" and have proper breathing room for a cle
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="xd" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
 
