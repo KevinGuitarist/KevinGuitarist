@@ -99,15 +99,37 @@
 
 <hr>
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&title_color=79ff97&icon_color=79ff97" alt="kevinguitarist's GitHub stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinguitarist&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=79ff97" alt="kevinguitarist's top languages" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight&hide_border=true" alt="kevinguitarist's streak stats" />
-</p>
+<h3 align="center">📊 GitHub Metrics</h3>
+
+<div align="center" style="animation: fadeIn 1.5s ease-in-out;">
+  
+  ### Most Used Languages
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinguitarist&layout=compact&theme=tokyonight&hide_border=true&title_color=79ff97&langs_count=5" alt="Top Languages" />
+  </p>
+
+  ---
+
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&theme=tokyonight&hide_border=true&title_color=79ff97&icon_color=79ff97&include_all_commits=true&count_private=true" alt="Total Contributions" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight&hide_border=true" alt="Current Streak" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
 
 <br>
 
