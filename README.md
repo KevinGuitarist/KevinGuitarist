@@ -1,6 +1,7 @@
 <!-- 
-Hi, Vivek! I've now animated your GitHub stats cards and customized them for a better look.
-I've also included a clear explanation below about the snake contribution graph, which you asked about.
+Hi, Vivek! I've added a cache-busting parameter to the stats URLs.
+This will force GitHub to load the new, animated versions.
+Remember, the animation is a one-time load effect, not a continuous loop.
 -->
 
 <div align="center">
@@ -106,10 +107,10 @@ I've also included a clear explanation below about the snake contribution graph,
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&title_color=79ff97&icon_color=79ff97" alt="kevinguitarist's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&title_color=79ff97&icon_color=79ff97&timestamp=123" alt="kevinguitarist's GitHub stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinguitarist&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=79ff97" alt="kevinguitarist's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinguitarist&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=79ff97&timestamp=123" alt="kevinguitarist's top languages" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight&hide_border=true" alt="kevinguitarist's streak stats" />
 </p>
