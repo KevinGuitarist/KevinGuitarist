@@ -1,8 +1,4 @@
-<!-- 
-Hi, Vivek! I've now animated your GitHub stats cards and customized them for a better look.
-I've also included a clear explanation below about the snake contribution graph, which you asked about.
--->
-
+<!-- Final Code -->
 <div align="center">
 
 <p align="center">
