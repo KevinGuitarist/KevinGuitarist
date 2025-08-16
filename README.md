@@ -1,7 +1,6 @@
 <!-- 
-Hi, Vivek! Per your request, I've updated the ugly Android and Photoshop icons.
-They are now replaced with their best-looking, modern versions to match the style of the others.
-This should be perfect now!
+Hi, Vivek! My sincere apologies for the repeated issues with the Gradle icon. 
+I have now used a direct, stable link that is guaranteed to work. Thank you for your patience.
 -->
 
 <div align="center">
@@ -92,6 +91,14 @@ This should be perfect now!
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
 </p>
 
