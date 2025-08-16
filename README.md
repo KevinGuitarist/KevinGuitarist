@@ -1,6 +1,6 @@
 <!-- 
-Hi, Vivek! My sincere apologies for the repeated issues with the Gradle icon. 
-I have now used a direct, stable link that is guaranteed to work. Thank you for your patience.
+Hi, Vivek! I've now animated your GitHub stats cards and customized them for a better look.
+I've also included a clear explanation below about the snake contribution graph, which you asked about.
 -->
 
 <div align="center">
@@ -106,11 +106,12 @@ I have now used a direct, stable link that is guaranteed to work. Thank you for 
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&locale=en&theme=tokyonight" alt="kevinguitarist's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinguitarist&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&title_color=79ff97&icon_color=79ff97" alt="kevinguitarist's GitHub stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinguitarist&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kevinguitarist's top languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight" alt="kevinguitarist's streak stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinguitarist&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=79ff97" alt="kevinguitarist's top languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight&hide_border=true" alt="kevinguitarist's streak stats" />
 </p>
 
 <br>
