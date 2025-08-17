@@ -115,9 +115,8 @@
 
 ---
 
-<!-- Contributions / Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinguitarist&theme=tokyonight&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kevinguitarist&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 
