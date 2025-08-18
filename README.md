@@ -70,6 +70,10 @@
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://cloudinary.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="cloudinary" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
